@@ -96,7 +96,9 @@ body {
     color: #212121;
     border-bottom: 2px solid black;
 }
-
+.menu a {
+    text-decoration: none;
+}
 .cirlce-animate {
     margin: 70px 50%;
 }
